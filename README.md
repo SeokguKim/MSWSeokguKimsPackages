@@ -11,3 +11,7 @@ Please mention me if you reupload.
 
 이 저장소는 MIT 라이센스가 적용됩니다.  
 재업로드 하는 등의 경우에는 알려주세요.
+
+## History
+> 01/17/23  
+> Created this repositiory
