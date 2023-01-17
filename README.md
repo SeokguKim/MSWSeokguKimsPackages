@@ -9,5 +9,5 @@ Bunch of Maplestory World frameworks I made
 This repositiory is under MIT Lisence.  
 Please mention me if you reupload.
 
-이 저장소는 MIT 라이센스가 적용됩니다.
+이 저장소는 MIT 라이센스가 적용됩니다.  
 재업로드 하는 등의 경우에는 알려주세요.
