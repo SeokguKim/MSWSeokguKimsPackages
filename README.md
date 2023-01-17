@@ -1,6 +1,7 @@
 # MSWSeokguKimsPackages
 
 ## Introduction
+![Symbol_SeokguKim](https://user-images.githubusercontent.com/43718966/212786201-63551ef2-f6e3-4ac0-bc46-a0bfa85cacad.png)  
 Bunch of Maplestory World frameworks I made
 
 김석구가 제작한 메이플스토리 월드 패키지 저장소입니다.
